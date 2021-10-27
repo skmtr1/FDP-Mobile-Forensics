@@ -15,7 +15,7 @@ Welcome to FDP on Recent Trends in Cyber Security & Forensics 2021: Mobile Foren
 **2. JD-GUI :** Download from [http://java-decompiler.github.io/](http://java-decompiler.github.io/).
 
 
-**3. apktool :** Download from [https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_2.6.0.jar](https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_2.6.0.jar). Dependencies: Java 8 (JRE 1.8) and above.
+**3. apktool :** Download and install apktool as per instructions given at [https://ibotpeaches.github.io/Apktool/install/](https://ibotpeaches.github.io/Apktool/install/). Dependencies: Java 8 (JRE 1.8) and above.
 
 
 **4. MobSF :** In this session, we are going to use a web-based open source framework (MobSF) to analyzing a sample (malware/benign). To make hand-on faster, we have hosted this framework on the IITK network only for this session and can be accessed on the URL [http://172.27.18.79:5555/](http://172.27.18.79:5555/). You can download MobSF from [https://github.com/MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) and configure as per the instruction given in README file.
