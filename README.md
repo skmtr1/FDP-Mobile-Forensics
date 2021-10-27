@@ -9,7 +9,7 @@ Welcome to FDP on Recent Trends in Cyber Security & Forensics 2021: Mobile Foren
 
 ## Tools Required
 
-**1. dex2jar :** DOwnload from [https://sourceforge.net/projects/dex2jar/files/dex2jar-2.0.zip/download](https://sourceforge.net/projects/dex2jar/files/dex2jar-2.0.zip/download). Dependencies: Java 1.7 and above.
+**1. dex2jar :** Download from [https://sourceforge.net/projects/dex2jar/files/dex2jar-2.0.zip/download](https://sourceforge.net/projects/dex2jar/files/dex2jar-2.0.zip/download). Dependencies: Java 1.7 and above.
 
 
 **2. JD-GUI :** Download from [http://java-decompiler.github.io/](http://java-decompiler.github.io/).
